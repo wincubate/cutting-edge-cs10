@@ -14,7 +14,7 @@
 //    Console.WriteLine( $"We could figure out the count without evaluating: {count}");
 //}
 //else
-//
+//{
 //    Console.WriteLine("Need to evaluate :-(");
 //}
 
