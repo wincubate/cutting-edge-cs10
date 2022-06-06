@@ -73,7 +73,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Records Before", "02 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Built-in Features of Records", "03 - Built-in Features of Records\03 - Built-in Features of Records.csproj", "{85026519-8B3D-45CF-B764-BB3A931C779F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Records and Inherirance", "04 - Records and Inherirance\04 - Records and Inherirance.csproj", "{4F33B6E1-EAF3-4D2E-8027-EA726C8F718C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Records and Inheritance", "04 - Records and Inheritance\04 - Records and Inheritance.csproj", "{4F33B6E1-EAF3-4D2E-8027-EA726C8F718C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - A Few Words of Warning", "05 - A Few Words of Warning\05 - A Few Words of Warning.csproj", "{0129FB37-DAA4-426E-9989-CCCE94AA2B9C}"
 EndProject

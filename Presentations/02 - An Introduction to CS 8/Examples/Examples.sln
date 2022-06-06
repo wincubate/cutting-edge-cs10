@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30503.244
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 - Nullabe Reference Types", "05 - Nullabe Reference Types\05 - Nullabe Reference Types.csproj", "{55449D08-301F-48D8-B0A2-0A874134EC76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 - Nullable Reference Types", "05 - Nullable Reference Types\05 - Nullable Reference Types.csproj", "{55449D08-301F-48D8-B0A2-0A874134EC76}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 - Switch Expression Before", "11 - Switch Expression Before\11 - Switch Expression Before.csproj", "{68719FF5-04E9-4E84-85F5-150B6C508ECD}"
 EndProject
@@ -56,10 +56,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40 - Readonly Struct Members Complete", "40 - Readonly Struct Members Complete\40 - Readonly Struct Members Complete.csproj", "{55ABCB9A-C1DD-4B33-ABC0-A18FEDEBC53D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "41 - Disposable Ref Structs", "41 - Disposable Ref Structs\41 - Disposable Ref Structs.csproj", "{481D794E-DAC1-4888-94D4-B3D323D4BEEF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42 - Unmanaged Constructed Types", "42 - Unmanaged Constructed Types\42 - Unmanaged Constructed Types.csproj", "{C274F495-A3E9-4B2C-8A6B-9FFCFE9B022B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 - Stackalloc in Nested Expressions", "43 - Stackalloc in Nested Expressions\43 - Stackalloc in Nested Expressions.csproj", "{44C3F620-4261-4AC6-9A1E-C2ECA730FEAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,14 +171,6 @@ Global
 		{481D794E-DAC1-4888-94D4-B3D323D4BEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{481D794E-DAC1-4888-94D4-B3D323D4BEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{481D794E-DAC1-4888-94D4-B3D323D4BEEF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C274F495-A3E9-4B2C-8A6B-9FFCFE9B022B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C274F495-A3E9-4B2C-8A6B-9FFCFE9B022B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C274F495-A3E9-4B2C-8A6B-9FFCFE9B022B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C274F495-A3E9-4B2C-8A6B-9FFCFE9B022B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44C3F620-4261-4AC6-9A1E-C2ECA730FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44C3F620-4261-4AC6-9A1E-C2ECA730FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44C3F620-4261-4AC6-9A1E-C2ECA730FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44C3F620-4261-4AC6-9A1E-C2ECA730FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
