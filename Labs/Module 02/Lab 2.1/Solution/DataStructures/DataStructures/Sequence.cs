@@ -11,6 +11,7 @@ namespace DataStructures
         public Sequence()
         {
             Head = null;
+            Last = null;
         }
 
         public void Add(T data)
@@ -36,7 +37,7 @@ namespace DataStructures
             while (current != null)
             {
                 yield return current!.Data;
-                current = current.Next;
+                current = current!.Next;
             }
         }
 

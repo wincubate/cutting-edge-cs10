@@ -9,7 +9,7 @@ namespace PatternMatchingExpressions
         expression switch
         {
             Integer integer => integer.Value.ToString(),
-            Negative(var inner) => $"-({inner.Display()}))",
+            Negative(var inner) => $"-({inner.Display()})",
             Add(var left, var right) => $"({left.Display()})+({right.Display()})",
             Multiply(var left, var right) => $"({left.Display()})*({right.Display()})",
             null => "null",
